@@ -21,7 +21,7 @@ The project utilizes the Superstore Sales Dataset, which includes:
   - Sales amounts
   - Product categories
   - Regional information
-- **Data Volume**: Thousands of transactions
+- **Data Volume**: 10000+ rows
 - **Update Frequency**: Monthly
 
 ## 🔄 Data Analytics Pipeline
@@ -97,21 +97,3 @@ The pipeline automatically generates a comprehensive analytics report (`AI_Annot
 - Statistical analysis
 - Executive summary
 - Technical documentation
-
-## 🛠️ Technical Implementation
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Run data pipeline
-python Data_pipeline_update.py
-
-# Execute analytics engine
-python Forecasting_monthly_sales.py
-```
-
-## 👥 Author
-[Your Name]
-
-## 📝 License
-This project is licensed under the MIT License. 
