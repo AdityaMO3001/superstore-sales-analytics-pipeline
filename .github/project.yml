@@ -1,0 +1,12 @@
+name: Superstore Analytics Pipeline
+body: |
+  Project board for tracking the development and improvements of the Superstore Sales Analytics Pipeline.
+columns:
+  - name: To Do
+    purpose: Backlog of tasks and improvements
+  - name: In Progress
+    purpose: Currently being worked on
+  - name: Review
+    purpose: Ready for review and testing
+  - name: Done
+    purpose: Completed and deployed 
